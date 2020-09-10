@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fee478469968f413e93b0c80cfd82e2",
+    "revision": "15e2754325551cd9e955e3c798b2ce57",
     "url": "/VKHack2020-Hotfix-Web/index.html"
   },
   {
-    "revision": "4e998ba5de4a6ad593be",
+    "revision": "04a18039ce077e0c5ce8",
     "url": "/VKHack2020-Hotfix-Web/static/css/main.f9b892e7.chunk.css"
   },
   {
-    "revision": "967ec3c1d34b59d10b45",
-    "url": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js"
+    "revision": "3449ffe02dce88ccde14",
+    "url": "/VKHack2020-Hotfix-Web/static/js/2.41106299.chunk.js"
   },
   {
     "revision": "41b66b6fd6eecba581340794bb1831be",
-    "url": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js.LICENSE.txt"
+    "url": "/VKHack2020-Hotfix-Web/static/js/2.41106299.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e998ba5de4a6ad593be",
-    "url": "/VKHack2020-Hotfix-Web/static/js/main.aba7cb09.chunk.js"
+    "revision": "04a18039ce077e0c5ce8",
+    "url": "/VKHack2020-Hotfix-Web/static/js/main.fb0198fb.chunk.js"
   },
   {
     "revision": "2eed114cc87b63515770",
