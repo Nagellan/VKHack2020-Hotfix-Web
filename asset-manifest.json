@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/VKHack2020-Hotfix-Web/static/css/main.f9b892e7.chunk.css",
+    "main.js": "/VKHack2020-Hotfix-Web/static/js/main.7465a7b7.chunk.js",
+    "main.js.map": "/VKHack2020-Hotfix-Web/static/js/main.7465a7b7.chunk.js.map",
+    "runtime-main.js": "/VKHack2020-Hotfix-Web/static/js/runtime-main.dd45b3d1.js",
+    "runtime-main.js.map": "/VKHack2020-Hotfix-Web/static/js/runtime-main.dd45b3d1.js.map",
+    "static/js/2.1b4ba119.chunk.js": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js",
+    "static/js/2.1b4ba119.chunk.js.map": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js.map",
+    "index.html": "/VKHack2020-Hotfix-Web/index.html",
+    "precache-manifest.689b05287954bbd944a2554590ab3f2c.js": "/VKHack2020-Hotfix-Web/precache-manifest.689b05287954bbd944a2554590ab3f2c.js",
+    "service-worker.js": "/VKHack2020-Hotfix-Web/service-worker.js",
+    "static/css/main.f9b892e7.chunk.css.map": "/VKHack2020-Hotfix-Web/static/css/main.f9b892e7.chunk.css.map",
+    "static/js/2.1b4ba119.chunk.js.LICENSE.txt": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/VKHack2020-Hotfix-Web/static/media/1.dfc54362.png",
+    "static/media/2.png": "/VKHack2020-Hotfix-Web/static/media/2.20489759.png",
+    "static/media/3.png": "/VKHack2020-Hotfix-Web/static/media/3.dbf82c38.png",
+    "static/media/4.png": "/VKHack2020-Hotfix-Web/static/media/4.e671d539.png",
+    "static/media/burger.png": "/VKHack2020-Hotfix-Web/static/media/burger.35bcd067.png",
+    "static/media/check-symbol.svg": "/VKHack2020-Hotfix-Web/static/media/check-symbol.06277842.svg",
+    "static/media/edit.svg": "/VKHack2020-Hotfix-Web/static/media/edit.751f84c2.svg",
+    "static/media/kfc.png": "/VKHack2020-Hotfix-Web/static/media/kfc.4fd2ba47.png",
+    "static/media/mcdac.png": "/VKHack2020-Hotfix-Web/static/media/mcdac.60464810.png",
+    "static/media/refresh-button.svg": "/VKHack2020-Hotfix-Web/static/media/refresh-button.1198ed41.svg",
+    "static/media/sub.png": "/VKHack2020-Hotfix-Web/static/media/sub.4eb05fdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd45b3d1.js",
+    "static/js/2.1b4ba119.chunk.js",
+    "static/css/main.f9b892e7.chunk.css",
+    "static/js/main.7465a7b7.chunk.js"
+  ]
+}
