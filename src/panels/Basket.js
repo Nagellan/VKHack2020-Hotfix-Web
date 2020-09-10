@@ -9,9 +9,9 @@ import './place.css';
 
 
 const Basket = ({ match: { params: { areaId, itemId }}, foodAreas, order, orderDetails, setOrderDetails }) => {
-  const [ faster, setFaster ] = useState(orderDetails[itemId].faster);
-  const [ time, setTime ] = useState(orderDetails[itemId].time);
-  const [ selfService, setSelfService ] = useState(orderDetails[itemId].selfService);
+  const [ faster, setFaster ] = useState(orderDetails[itemId] !== undefined ? orderDetails[itemId].faster : true);
+  const [ time, setTime ] = useState(orderDetails[itemId] !== undefined ? orderDetails[itemId].time : '');
+  const [ selfService, setSelfService ] = useState(orderDetails[itemId] !== undefined ? orderDetails[itemId].selfService : false);
   const area = foodAreas.filter(area => area.id === areaId)[0];
   const item = area.items.filter(item => item.id === itemId)[0];
 
