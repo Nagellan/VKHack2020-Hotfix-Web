@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a45bd4fc439ca13ef9539b96999ad32f",
+    "revision": "0fee478469968f413e93b0c80cfd82e2",
     "url": "/VKHack2020-Hotfix-Web/index.html"
   },
   {
-    "revision": "e69bb5daa520dc21a0a7",
+    "revision": "4e998ba5de4a6ad593be",
     "url": "/VKHack2020-Hotfix-Web/static/css/main.f9b892e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e69bb5daa520dc21a0a7",
-    "url": "/VKHack2020-Hotfix-Web/static/js/main.7465a7b7.chunk.js"
+    "revision": "4e998ba5de4a6ad593be",
+    "url": "/VKHack2020-Hotfix-Web/static/js/main.aba7cb09.chunk.js"
   },
   {
     "revision": "2eed114cc87b63515770",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VKHack2020-Hotfix-Web/precache-manifest.689b05287954bbd944a2554590ab3f2c.js"
+  "/VKHack2020-Hotfix-Web/precache-manifest.aec080b7b8bda21cd8c4bc04e72c05f7.js"
 );
 
 self.addEventListener('message', (event) => {

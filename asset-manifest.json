@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VKHack2020-Hotfix-Web/static/css/main.f9b892e7.chunk.css",
-    "main.js": "/VKHack2020-Hotfix-Web/static/js/main.7465a7b7.chunk.js",
-    "main.js.map": "/VKHack2020-Hotfix-Web/static/js/main.7465a7b7.chunk.js.map",
+    "main.js": "/VKHack2020-Hotfix-Web/static/js/main.aba7cb09.chunk.js",
+    "main.js.map": "/VKHack2020-Hotfix-Web/static/js/main.aba7cb09.chunk.js.map",
     "runtime-main.js": "/VKHack2020-Hotfix-Web/static/js/runtime-main.dd45b3d1.js",
     "runtime-main.js.map": "/VKHack2020-Hotfix-Web/static/js/runtime-main.dd45b3d1.js.map",
     "static/js/2.1b4ba119.chunk.js": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js",
     "static/js/2.1b4ba119.chunk.js.map": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js.map",
     "index.html": "/VKHack2020-Hotfix-Web/index.html",
-    "precache-manifest.689b05287954bbd944a2554590ab3f2c.js": "/VKHack2020-Hotfix-Web/precache-manifest.689b05287954bbd944a2554590ab3f2c.js",
+    "precache-manifest.aec080b7b8bda21cd8c4bc04e72c05f7.js": "/VKHack2020-Hotfix-Web/precache-manifest.aec080b7b8bda21cd8c4bc04e72c05f7.js",
     "service-worker.js": "/VKHack2020-Hotfix-Web/service-worker.js",
     "static/css/main.f9b892e7.chunk.css.map": "/VKHack2020-Hotfix-Web/static/css/main.f9b892e7.chunk.css.map",
     "static/js/2.1b4ba119.chunk.js.LICENSE.txt": "/VKHack2020-Hotfix-Web/static/js/2.1b4ba119.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.dd45b3d1.js",
     "static/js/2.1b4ba119.chunk.js",
     "static/css/main.f9b892e7.chunk.css",
-    "static/js/main.7465a7b7.chunk.js"
+    "static/js/main.aba7cb09.chunk.js"
   ]
 }
